@@ -157,6 +157,8 @@ Deployment
 ----------
 
 The following details how to deploy this application.
+The application is deployed on Heroku
+
 
 
 
